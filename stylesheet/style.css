@@ -443,8 +443,6 @@ p{
 }
 
 
-
-
 /* Testimonials */
 .testimonials{
     background: linear-gradient(rgba(0,0,0,0.6), rgba(0,0,0,0.6)), url(../media/testimonials-bg.jpg) no-repeat;
@@ -488,9 +486,6 @@ p{
 .testimonials .mySlides .active{
     background-color: var(--primary);
 }
-
-
-
 
 /* Portfolio */
 .portfolio{
